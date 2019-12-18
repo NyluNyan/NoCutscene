@@ -1,0 +1,7 @@
+{
+    "author": "Nylu",
+    "description": "allows disabling cutscenes",
+    "disableAutoUpdate": false,
+    "name": "No Cutscene",
+    "servers": ["https://raw.githubusercontent.com/NyluNyan/NoCutscene/master/"]
+}
